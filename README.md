@@ -31,3 +31,6 @@ Your app is ready to be deployed!
 
 ### `npm run build` 
 
+### Live Link:
+https://covid-19-tracker-a05a1.web.app/
+
